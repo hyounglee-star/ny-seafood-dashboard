@@ -1,1 +1,1 @@
-# ny-seafood-dashboard
+# ny-seafood-weekly-dashboard
